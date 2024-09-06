@@ -181,7 +181,7 @@ jobs:
           cd workspace/out/target/product/${{ github.event.inputs.DEVICE_NAME }}/
           tar -cvf recovery.tar recovery.img
         fi
-        
+      continue-on-error: true
     - name: Release recovery files
       uses: softprops/action-gh-release@v1
       with:
