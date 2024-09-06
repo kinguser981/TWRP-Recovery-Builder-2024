@@ -9,7 +9,7 @@ only Supports TWRP
 = 2024-09-05
 - Include Recovery to tar for Samsung devices
 - Include recovery installer zip
-- LDCheck forchecking missing dependencies.
+- LDCheck for checking missing dependencies.
 - TWRP Allow non-Github/Gitlab remotes for device trees
 - Clarify options in README
 - Add option to include recovery installer
@@ -62,6 +62,10 @@ only Supports TWRP
 Can be downloaded at [Release](../../releases)
 
 -----
-## Reference
+## Reference and Credits
+- https://github.com/that1
+- https://github.com/TeamWin
+- https://github.com/cd-Crypton
+- https://github.com/azwhikaru
+- And to all Contributors in every repositories and scripts I used.
 
-#### TeamWin Recovery Project: https://github.com/minimal-manifest-twrp
