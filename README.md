@@ -48,7 +48,7 @@ only Supports TWRP
 ![](https://s3.bmp.ovh/imgs/2024/09/07/acd37b59bde6971e.png)
 #### 2. After waiting for the automatic redirection, you will see your own username
 ## Building the Recovery
-#### 3. Click 'TWRP Recovery Builder 2024'
+#### 3. Click on 'Actions' then Click no 'TWRP Recovery Builder 2024'
 ![](https://s3.bmp.ovh/imgs/2024/09/07/4e0db9b997ea3522.png)
 #### 4. Click 'Run workflow', choose the branch for the recovery that you want to build, and fill in according to the above 'Parameter Description'
 ![](https://s3.bmp.ovh/imgs/2024/09/07/29a2d0acf63c6e4f.png)
