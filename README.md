@@ -1,6 +1,6 @@
 # compile Custom Recovery with Github Actions
 ```
-only Supports TWRP  14 / 12.1 / 11 / 9
+only Supports TWRP  14 / 12.1 / 11 / 9.0
 ```
 ---
 
