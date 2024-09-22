@@ -35,7 +35,7 @@ only Supports TWRP  14 / 12.1 / 11 / 9.0
 ## Parameter Description
 | Name | Description | Example |
 | ------------ | -------------------- | ------------ |
-| `MANIFEST_BRANCH` | Source branch | 14 |
+| `MANIFEST_BRANCH` | Source branch | twrp-14 |
 | `DEVICE_TREE_URL` | Device tree address | https://github.com/kinguser981/android_device_samsung_a05s.git |
 | `DEVICE_TREE_BRANCH` | Device branch that you want to use for build (typically corresponds to the manifest branch) | android-14.0 |
 | `DEVICE_PATH` | Device tree location for syncing, relative to workspace root (usually listed as "LOCAL_PATH" or "DEVICE_PATH" in BoardConfig.mk) | device/samsung/a05s |
