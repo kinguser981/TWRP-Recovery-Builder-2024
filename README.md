@@ -68,7 +68,6 @@ Can be downloaded at [Release](../../releases)
 ## Reference and Credits
 - https://github.com/that1
 - https://github.com/TeamWin
-- https://github.com/CaptainThrowback
 - https://github.com/cd-Crypton
 - https://github.com/azwhikaru
 - And to all Contributors in every repositories and scripts I used.
