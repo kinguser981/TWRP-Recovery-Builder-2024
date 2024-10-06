@@ -20,7 +20,7 @@ on:
       DEVICE_TREE_BRANCH:
         description: 'Custom Recovery Tree Branch' 
         required: true
-        default: 'Master-TWRP-12.1'
+        default: 'android-12.1'
       DEVICE_PATH:
         description: 'Specify your Device Path' 
         required: true
