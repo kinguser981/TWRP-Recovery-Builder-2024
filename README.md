@@ -35,7 +35,7 @@ only Supports TWRP  (twrp-14 repo is not ready yet) / 12.1 / 11 / 9.0
 -----
 
 ## Output will be like this
-![](https://s3.bmp.ovh/imgs/2024/09/07/17b331e17bc4ccd9.png)
+![](https://s3.bmp.ovh/imgs/2024/10/07/830c7e6f9f983fac.jpg)
 
 ## Parameter Description
 | Name | Description | Example |
