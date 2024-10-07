@@ -3,7 +3,7 @@
 only Supports TWRP  14 / 12.1 / 11 / 9.0
 ```
 ---
-
+![twrp_png](https://w7.pngwing.com/pngs/901/392/png-transparent-twrp-android-computer-icons-android-blue-angle-text.png)
 ## Release Notes
 ```
 = 2024-09-22
