@@ -1,6 +1,6 @@
 # Compile Twrp Recovery with Github Actions
 ```
-only Supports TWRP  (twrp-14 repo is not ready yet) / 12.1 / 11 / 9.0
+only Supports TWRP  14 / 12.1 / 11 / 9.0
 ```
 ---
 ![twrp_jpg](https://s3.bmp.ovh/imgs/2024/10/07/7e8dccdad37f834d.jpg)
