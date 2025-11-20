@@ -6,7 +6,7 @@ on:
       MANIFEST_BRANCH:
         description: 'TWRP Minimal-Manifest Branch'
         required: true
-        default: ''
+        default: 'twrp-14.1'
         type: choice
         options:
         - twrp-14.1
@@ -16,7 +16,7 @@ on:
       DEVICE_TREE:
         description: 'Custom Recovery Tree' 
         required: true
-        default: 'https://github.com/kinguser981/cap_sprout_twrp'
+        default: 'https://github.com/TeamWin/android_device_samsung_m14x'
       DEVICE_TREE_BRANCH:
         description: 'Custom Recovery Tree Branch' 
         required: true
@@ -24,11 +24,11 @@ on:
       DEVICE_PATH:
         description: 'Specify your Device Path' 
         required: true
-        default: 'device/nokia/cap_sprout'
+        default: 'device/samsung/m14x'
       DEVICE_NAME:
         description: 'Specify your Device Codename' 
         required: true
-        default: 'cap_sprout'
+        default: 'm14x'
       BUILD_TARGET:
         description: 'Specify your Build Target' 
         required: true
