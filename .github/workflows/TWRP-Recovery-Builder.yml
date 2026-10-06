@@ -189,7 +189,7 @@ jobs:
             echo "MD5_IMG=$(md5sum out/target/product/${{ github.event.inputs.DEVICE_NAME }}/vendor_boot.img | cut -d ' ' -f 1)" >> $GITHUB_ENV
         else
             echo "No Recovery file found!"
-            cd Exit
+            exit 1
         fi
 
     - name: Include Recovery Installer
